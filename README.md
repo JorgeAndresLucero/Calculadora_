@@ -24,15 +24,11 @@ $ sudo apt-get install docker-ce docker-ce-cli containerd.io
 
 * Correr la aplicación
 En la terminal de Linux se coloca los comandos para acceder a la ubicación
-$cd documentos/aplicacion
-* Cuando ya se está en la ubicación se coloca escribe
-$ docker compose-up
+$cd documentos/calculadora
 
 * Docker
 Para iniciar el docker se coloca el siguiente comando
-
-$ sudo dockebuild -t gestion:latest .
-
+$ docker compose-up
 $ sudo docker start calculadora
 
 
