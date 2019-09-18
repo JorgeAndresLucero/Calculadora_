@@ -1,9 +1,7 @@
-# Calculadora_
-*JORGE ANDRES LUCERO HERNANDEZ 20152020082 
-JULIANA ALEXANDRA CAPADOR OCHOA 20152020081*
 
-# GesTecnDockerFlaskMySql
-Repositorio que contiene una aplicación utilizando flask como entorno web y MySql para la persistencia de los datos
+
+# Calculadora_
+Repositorio que contiene una calculadora básica basada en multiservicios  utilizando php como entorno web y apache como motor
 
 # Instalación
 Se deben descargar los archivos y guardarlos en una misma carpeta, además como prerequisito se debe tener instalado docker, para linux
